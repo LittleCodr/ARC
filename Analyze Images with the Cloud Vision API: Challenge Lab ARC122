@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-export API_KEY=
+export API_KEY=AIzaSyDh-WGU9CfMWhSmDkR4z2u0BxOQ0MSSnZo
 
 sudo chmod +x techcpsarc122.sh
 ./techcpsarc122.sh
